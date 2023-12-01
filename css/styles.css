@@ -1,0 +1,17 @@
+.my-6 {
+    margin-top: 4rem !important;
+    margin-bottom: 4rem !important;
+  }
+
+  .btn{
+    box-shadow: 2px 2px 12px #ccc;
+  }
+  .btn:hover{
+    box-shadow: 6px 6px 15px #cccccc;
+  }
+  .icons{
+    font-size: 50px;
+  }
+  .bg-menu{
+    background-color: #218c74;
+  }
